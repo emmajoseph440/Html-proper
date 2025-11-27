@@ -1,0 +1,19 @@
+
+/* this is the body section */
+body{
+    background-color: blue;
+
+}
+
+/* this is the header design */
+h1 {
+    color: aqua;
+    font-size: 40px;
+}
+
+p{ 
+    color: rgba(25, 4, 55, 0.865);
+    font-size: 30;
+    
+
+}
